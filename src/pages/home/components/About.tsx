@@ -56,6 +56,7 @@ export default function About() {
                 src="/assest/pic.jpeg"
                 alt="Muneer Loonat"
                 className="w-full h-full object-cover object-center"
+                
               />
             </div>
           </div>
